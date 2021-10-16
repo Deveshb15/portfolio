@@ -12,7 +12,7 @@ const Main = () => {
     
 
     return (
-        <div className="flex flex-col items-center justify-center min-h-screen overflow-x-hidden -m-16">
+        <div className="flex flex-col items-center justify-center min-h-screen overflow-x-hidden -mt-16">
             <main>
                 <div className="text-center">
                     <h1 className="text-8xl font-light leading-tight" data-aos="fade-down">Devesh RB</h1>

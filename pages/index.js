@@ -24,7 +24,7 @@ export default function Home() {
 
       <footer>
         <div className="text-center p-4 mt-4">
-            Connect with me on <a className="text-blue-500 border-b border-transparent hover:border-blue-500" href="https://twitter.com/Deveshb15" rel="noreferrer" target="_blank">Twitter</a>
+            My <a className="text-blue-500 border-b border-transparent hover:border-blue-500" href="https://drive.google.com/file/d/1MozSYw-itCtqPn2p8ysRA3G_30bTZAz-/view?usp=sharing" rel="noreferrer" target="_blank">Resume</a>
           </div>
       </footer>
       
