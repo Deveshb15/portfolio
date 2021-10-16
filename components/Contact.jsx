@@ -14,7 +14,7 @@ const Contact = () => {
             <section id="contact">
                 <h1 className="text-7xl font-light text-center mt-5">Let&apos;s Talk</h1>
                 <div className="relative">
-                    <h1 className="text-8xl absolute -top-20 left-2.5 right-0 bottom-0 font-extrabold uppercase -z-1 text-gray-200 mt-4 mr-12">Contact</h1>
+                    <h1 className="text-8xl absolute -top-20 left-2.5 right-0 bottom-0 font-extrabold uppercase -z-1 text-gray-200 mt-4 mr-12 invisible sm:visible">Contact</h1>
                     <div>
                         <h2 className="text-3xl mb-5 pt-8 text-center">Want to connect? </h2>
                         <ul className="flex justify-center list-unstyled my-4 pb-4">
